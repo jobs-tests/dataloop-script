@@ -1,0 +1,5 @@
+project_name = "dataloop-tosin-dev"
+dataset_name = "number-images"
+image_dir = "data/images"
+annotation_dir = "data/annotations"
+annotation_file_name = "ML Solution Engineering Home Assignment.json"
