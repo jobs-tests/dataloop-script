@@ -1,0 +1,29 @@
+# Ignore virtual environments
+__pycache__/
+venv/
+env/
+.venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+
+# Ignore any other build or temporary files
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.swp
+
+# Ignore .DS_Store files on macOS
+.DS_Store
