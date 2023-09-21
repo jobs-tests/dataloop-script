@@ -15,8 +15,8 @@ These instructions will help you set up and run the project on your local machin
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
-   cd your-project
+   git clone https://github.com/jobs-tests/dataloop-script.git
+   cd dataloop-script
    ```
 
 2. Install project dependencies using Pipenv:
