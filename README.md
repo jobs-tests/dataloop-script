@@ -36,8 +36,3 @@ These instructions will help you set up and run the project on your local machin
    ```bash
    pipenv run dev
    ```
-
-
-## Usage
-
-Explain how to use the project, including any available commands or features.
